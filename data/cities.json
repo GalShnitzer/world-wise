@@ -35,30 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Bedford",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "notes": "",
-      "date": "2026-02-23T13:44:48.456Z",
-      "position": {
-        "lat": "52.21611287016857",
-        "lng": "-0.4860239267684331"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Ramat Negev Regional Council",
-      "country": "Israel",
-      "emoji": "🇮🇱",
-      "notes": "",
-      "date": "2026-02-23T14:06:38.178Z",
-      "position": {
-        "lat": "30.966042426409288",
-        "lng": "35.01480102539063"
-      },
-      "id": 98443199
     }
   ]
 }
